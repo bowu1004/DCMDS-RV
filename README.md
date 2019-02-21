@@ -18,9 +18,10 @@ It includes:
 <img src="https://media.springernature.com/original/springer-static/image/art%3A10.1007%2Fs12650-018-0532-0/MediaObjects/12650_2018_532_Fig19_HTML.png" alt="2d-10c" title="sample-results" width="600px" style="max-width: 100%;float:center;"/>
 
 ## Data
-You can run the code smoothly for the cases of HAR dataset and Wikipedia-Words dataset. For the other two datasets:
+You can run the code smoothly for the case of Wikipedia-Words dataset. For the other datasets:
 
   * unzip Olivetti_Face data file before use;
+  * download HAR dataset from [UCI](https://archive.ics.uci.edu/ml/machine-learning-databases/00240/);
   * download MNIST data from the [website](http://yann.lecun.com/exdb/mnist/),and save it accordingly.
 
 ## Experiment
