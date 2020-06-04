@@ -1,4 +1,7 @@
 # DCMDS-RV: density-concentrated multi-dimensional scaling for relation visualization
+###### Wu, B., Smith, J.S., Wilamowski, B.M. et al. DCMDS-RV: density-concentrated multi-dimensional scaling for relation visualization. J Vis 22, 341–357 (2019). 
+###### https://doi.org/10.1007/s12650-018-0532-0
+---
 
 ## Paper
 
